@@ -9,3 +9,4 @@ function sumar(int $numero1,int $numero2){
 sumar(numero2:10,numero1:10);
 
 include 'includes/footer.php';
+
